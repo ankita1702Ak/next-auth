@@ -87,20 +87,20 @@
   margin-bottom: 1rem;
 }
 
-table {
+.table {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.9rem;
 }
 
-th,
-td {
+.th,
+.td {
   text-align: left;
   padding: 0.6rem 0.5rem;
   border-bottom: 1px solid #f0f1f4;
 }
 
-th {
+.th {
   color: #6b7280;
   font-weight: 600;
   font-size: 0.78rem;
